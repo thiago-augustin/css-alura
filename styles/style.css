@@ -188,4 +188,25 @@ footer {
 footer i {
   color: red;
 }
+
+#curiosidades {
+  padding: 1rem;
+  text-align: center;
+  margin: 5px;
+}
+
+#curiosidades h3 {
+  color: #495371;
+  font-size: 1.2rem;
+}
+
+#curiosidades h4 {
+  color: #74959A;
+  font-size: 1rem;
+}
+
+#curiosidades p {
+  margin-top: 5px;
+  color: #495371;
+}
 /*# sourceMappingURL=style.css.map */
